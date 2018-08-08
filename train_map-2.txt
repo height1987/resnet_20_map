@@ -1,0 +1,26 @@
+/opt/cntk/Examples/Image/DataSets/Warehouse/data/0-all/1531730552375-90.png	1
+/opt/cntk/Examples/Image/DataSets/Warehouse/data/0-all/1531732948821876-270.png	1
+/opt/cntk/Examples/Image/DataSets/Warehouse/data/1-all/173658-270.png	0
+/opt/cntk/Examples/Image/DataSets/Warehouse/data/0-all/1531730613239.png	1
+/opt/cntk/Examples/Image/DataSets/Warehouse/data/1-all/134530-270.png	0
+/opt/cntk/Examples/Image/DataSets/Warehouse/data/0-all/1531796820521565.png	1
+/opt/cntk/Examples/Image/DataSets/Warehouse/data/1-all/40654-270.png	0
+/opt/cntk/Examples/Image/DataSets/Warehouse/data/0-all/1531735206031119.png	1
+/opt/cntk/Examples/Image/DataSets/Warehouse/data/1-all/117630-90.png	0
+/opt/cntk/Examples/Image/DataSets/Warehouse/data/0-all/1531733002899250-270.png	1
+/opt/cntk/Examples/Image/DataSets/Warehouse/data/1-all/60677-90.png	0
+/opt/cntk/Examples/Image/DataSets/Warehouse/data/0-all/1531742311363667-90.png	1
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+Total 9015 rows
