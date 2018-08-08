@@ -19,4 +19,4 @@
 .
 .
 
-Total 47014 rows
+Total 9313 rows
